@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  aws-lb-custom:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-07-19T14:27:02.7544053+09:00"
+    description: A Helm chart for Kubernetes
+    digest: fcbad9b3b7b799f83606f3c0cbcaa1e387ab639794023ab1c87c3d315a4b3bea
+    name: aws-lb-custom
+    type: application
+    urls:
+    - aws-lb-custom-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-07-19T14:27:02.749623068+09:00"
